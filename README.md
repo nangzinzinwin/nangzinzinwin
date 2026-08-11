@@ -36,7 +36,7 @@
   <a href="https://discord.gg/m98X5hW4ns" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://www.youtube.com/c/nangzzw" target="_blank">
+  <a href="https://www.youtube.com/@nangzzw?si=-_CMB7ahymwXahfL" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
