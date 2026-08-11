@@ -71,11 +71,12 @@
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nangzinzinwin&theme=radical" alt="nangzinzinwin" />
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nangzinzinwin&theme=radical&cache=0" alt="GitHub Streak Stats" />
+</p> 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nangzinzinwin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
