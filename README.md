@@ -27,7 +27,7 @@
   <a href="https://linkedin.com/in/nangzinzinwin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a> 
-  <a href="mailto:nangzinzinwin04@gmail.com" target="_blank">
+  <a href="mailto:nangzinzinwin2005@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a> 
   <a href="https://t.me/nangzzw" target="_blank">
