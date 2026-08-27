@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello, I'm Zin</h1>
-<h3 align="center">Aspiring Software Engineer | CS Undergraduate | Data Engineering & AI/ML Enthusiast in HealthTech 🏥 
+<h3 align="center">Aspiring Software Engineer | CS Undergraduate | Data Engineering & AI/ML Enthusiast in HealthTech 
 </h3> 
 
  <p align="center"> <img width="1200" height="400" alt="HE IIO" src="https://github.com/user-attachments/assets/9089fd40-dd07-4b83-a020-bcd97c0cbbc3" />
