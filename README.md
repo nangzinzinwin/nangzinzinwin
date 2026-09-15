@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello, I'm Zin</h1>
-<h3 align="center">Aspiring Software Engineer | CS Undergraduate | Data Engineering & AI/ML Enthusiast in HealthTech 
+<h3 align="center">Aspiring Software Engineer | CS Undergraduate 
 </h3> 
 
  <p align="center"> <img width="1200" height="400" alt="HE IIO" src="https://github.com/user-attachments/assets/9089fd40-dd07-4b83-a020-bcd97c0cbbc3" />
@@ -12,10 +12,10 @@
 <img width="240" alt="codingcat" align="right" src="https://github.com/user-attachments/assets/dad44ce7-2a64-49d2-830c-1b5210cc69cd" />
 
 * 🎓 **Computer Science Undergraduate** passionate about software development, problem-solving, and building cool projects.
-* 🩺 Currently exploring **Data Engineering & AI/ML**, with a special focus on their applications in **Healthcare**.
-* 📁 All of my public repositories are available at [github.com/nangzinzinwin](https://github.com/nangzinzinwin).
-* 💬 Ask me about **Python, Java, C/C++, JavaScript, Data Engineering, AI/ML, or CS Fundamentals**.
-* ⚡ Fun fact: **I think I am pretty as hell, half of my beauty is my brain tho.** 
+* Currently exploring **Data Engineering & AI/ML**, with a special focus on their applications in **Healthcare**.
+* All of my public repositories are available at **[github.com/nangzinzinwin](https://github.com/nangzinzinwin)**.
+* Ask me about **Python, Java, C/C++, JavaScript, and Web Development**.
+* Fun fact: **I think I am pretty as hell, half of my beauty is my brain tho.** 
 
 <br clear="right" />
 
