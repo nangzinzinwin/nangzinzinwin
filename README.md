@@ -11,14 +11,15 @@
 ### About Me
 <img width="240" alt="codingcat" align="right" src="https://github.com/user-attachments/assets/dad44ce7-2a64-49d2-830c-1b5210cc69cd" />
 
-* **Computer Science Undergraduate** passionate about software development,
-
-  problem-solving, and building cool projects.
+* I'm a **3rd-year CS undergraduate, aspiring software engineer**,
+  passionate about software development, and aim to contribute to
+  meaningful cool projects.
 * Currently exploring **Data Engineering & AI/ML**, with a focus on their
-* applications in **Healthcare**.
-* All of my public repositories are available at **[github.com/nangzinzinwin](https://github.com/nangzinzinwin)**.
-* Ask me about **Python, Java, C/C++, JavaScript, and Web Development**.
-* Fun fact: **I think I am pretty as hell, half of my beauty is my brain tho.** 
+  applications in **Healthcare**.
+* All of my public repositories are available at
+  **[github.com/nangzinzinwin](https://github.com/nangzinzinwin)**.
+* I love learning and testing **new things**.
+* Fun fact: **I think I am pretty as hell, half of my beauty is my brain tho xD** 
 
 <br clear="right" />
 
