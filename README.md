@@ -14,8 +14,6 @@
 * I'm a **3rd-year CS undergraduate, aspiring software engineer**,
   passionate about software development, and aim to contribute to
   meaningful cool projects.
-* Currently exploring **Data Engineering & AI/ML**, with a focus on their
-  applications in **Healthcare**.
 * All of my public repositories are available at
   **[github.com/nangzinzinwin](https://github.com/nangzinzinwin)**.
 * I love learning and testing **new things**.
