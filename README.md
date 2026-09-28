@@ -13,11 +13,11 @@
 <img width="240" alt="codingcat" align="right" src="https://github.com/user-attachments/assets/dad44ce7-2a64-49d2-830c-1b5210cc69cd" />
 
 * I'm a **3rd-year CS undergraduate, aspiring software engineer**,
-  passionate about software development, and aim to contribute to
+  passionate about software development, and aim to contribute
   meaningful cool projects.
+* I love learning and testing **new things**.
 * All of my public repositories are available at
   **[github.com/nangzinzinwin](https://github.com/nangzinzinwin)**.
-* I love learning and testing **new things**.
 * Fun fact: **I think I am pretty as hell, half of my beauty is my brain tho xD**.
 
 <br clear="right" />
