@@ -15,7 +15,7 @@
 * I'm a **3rd-year CS undergraduate, aspiring software engineer**,
   passionate about software development, and aim to contribute
   meaningful cool projects.
-* I love learning and testing **new things**.
+* I love **learning and testing new things**.
 * All of my public repositories are available at
   **[github.com/nangzinzinwin](https://github.com/nangzinzinwin)**.
 * Fun fact: **I think I am pretty as hell, half of my beauty is my brain tho xD**.
