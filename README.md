@@ -1,8 +1,9 @@
 
 <h1 align="center">Hello, I'm Zin</h1>
-<h3 align="center">Aspiring Software Engineer | CS Undergraduate 
-</h3> 
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&width=435&lines=3'rd+Year+Computer+Science+Student;Aspiring+Software+Engineer;Outstanding+Award-YIS+Alumni" alt="Typing Animation" />
+</p>
  <p align="center"> <img width="1200" height="400" alt="HE IIO" src="https://github.com/user-attachments/assets/9089fd40-dd07-4b83-a020-bcd97c0cbbc3" />
 </p> 
 
