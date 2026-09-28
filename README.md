@@ -11,8 +11,11 @@
 ### About Me
 <img width="240" alt="codingcat" align="right" src="https://github.com/user-attachments/assets/dad44ce7-2a64-49d2-830c-1b5210cc69cd" />
 
-* 🎓 **Computer Science Undergraduate** passionate about software development, problem-solving, and building cool projects.
-* Currently exploring **Data Engineering & AI/ML**, with a special focus on their applications in **Healthcare**.
+* **Computer Science Undergraduate** passionate about software development,
+
+  problem-solving, and building cool projects.
+* Currently exploring **Data Engineering & AI/ML**, with a focus on their
+* applications in **Healthcare**.
 * All of my public repositories are available at **[github.com/nangzinzinwin](https://github.com/nangzinzinwin)**.
 * Ask me about **Python, Java, C/C++, JavaScript, and Web Development**.
 * Fun fact: **I think I am pretty as hell, half of my beauty is my brain tho.** 
@@ -62,8 +65,6 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25"/></a>  
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="25" height="25"/></a>  
   <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="25" height="25"/></a>  
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="25" height="25"/></a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="25" height="25"/></a>  
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="25" height="25"/></a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="25" height="25"/> </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/> </a> 
