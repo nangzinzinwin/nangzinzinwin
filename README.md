@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello, I'm Zin</h1>
+<h1 align="center">Hello There! </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&width=435&lines=Third+Year+Computer+Science+Student;Outstanding+Award-YIS+Alumni" alt="Typing Animation" />
